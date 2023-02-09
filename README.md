@@ -9,6 +9,11 @@ I am documenting 100DaysofMl 😄 journey in this repo I will add all the learni
 
 💻💡 It's Day 1 of my 100DaysOfML journey and I'm super excited to kickstart my learning journey! 🚀 Throughout this journey, I'll be documenting all my learnings and resources in this repository.
 
-> I have started with the basics
+> I have started with the Python basics and Machine Learnig Topic for understanding what is Machine Learning is.
 
-> [x] Done some Pyhton Exercise :joy:
+> [Python Basics 🐍](https://youtu.be/XKHEtdqhLK8)
+> 
+> [What is Machine Learning 🤔?](https://youtu.be/ZftI2fEz0Fw)
+
+
+
